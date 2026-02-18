@@ -6,7 +6,7 @@ Otherwise, scroll and find the image, and information about it!
 # Huh?
 Can't tell if serious or trolling.
 
-Image link: https://github.com/NothingButTyler/roblox-classic-faces/blob/main/images/classic/huh.webp
+Image link: https://github.com/NothingButTyler/roblox-classic-faces/blob/main/images/classic/Huh.webp
 
 Information: https://roblox.fandom.com/wiki/Catalog:Huh%3F
 
